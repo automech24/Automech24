@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automerch24.ch – Deine Autowerkstatt in der Nähe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #20232a;
+            color: white;
+            padding: 20px 40px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.2em;
+        }
+        header p {
+            font-size: 1.1em;
+            color: #aaa;
+        }
+        nav {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            display: block;
+        }
+        nav a:hover {
+            background-color: #444;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #20232a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Automerch24.ch</h1>
+    <p>Deine Verbindung zu geprüften Werkstätten in der Schweiz</p>
+</header>
+
+<nav>
+    <a href="#kunden">Für Kunden</a>
+    <a href="#partner">Werkstatt werden</a>
+    <a href="#kontakt">Kontakt</a>
+    <a href="#impressum">Impressum & Datenschutz</a>
+</nav>
+
+<section id="kunden">
+    <h2>Für Kunden</h2>
+    <p>Sie suchen eine Autowerkstatt in Ihrer Nähe? Wir vermitteln Ihnen eine geprüfte Partnerwerkstatt in der ganzen Schweiz. Schnell, unkompliziert und zuverlässig – damit Ihr Fahrzeug in besten Händen ist.</p>
+</section>
+
+<section id="partner">
+    <h2>Werkstatt werden</h2>
+    <p>Betreiben Sie eine Autowerkstatt in der Schweiz? Werden Sie Teil unseres Netzwerks und erhalten Sie neue Kundenanfragen. Wir bringen Ihnen Aufträge – Sie zahlen nur bei erfolgreicher Vermittlung (z. B. 10 % pro Kunde).</p>
+</section>
+
+<section id="kontakt">
+    <h2>Kontakt</h2>
+    <p>Interesse an einer Zusammenarbeit oder Fragen zu unserem Service?</p>
+    <p>Schreiben Sie uns eine E-Mail an: <strong>kontakt@automerch24.ch</strong></p>
+</section>
+
+<section id="impressum">
+    <h2>Impressum & Datenschutz</h2>
+    <p><strong>Automerch24.ch</strong><br>
+    Beispielstrasse 10<br>
+    8000 Zürich<br>
+    Schweiz</p>
+    <p><strong>Datenschutz:</strong> Wir behandeln Ihre Daten vertraulich und gemäss den gesetzlichen Vorschriften. Es werden keine personenbezogenen Daten ohne Ihre Einwilligung an Dritte weitergegeben.</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Automerch24.ch – Alle Rechte vorbehalten</p>
+</footer>
+
+</body>
+</html>
